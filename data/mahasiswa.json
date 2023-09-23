@@ -1,0 +1,26 @@
+[
+    {
+        "nama" : "muhammad alif maulana",
+        "asal" : "indramayu",
+        "jurusan" : "multimedia",
+        "email" : "alifmaulana@gmail.com"
+    },
+    {
+        "nama" : "teguh hidayat",
+        "asal" : "majalengka",
+        "jurusan" : "farmasi",
+        "email" : "teguhhidayata@gmail.com"
+    },
+    {
+        "nama" : "feridansyah",
+        "asal" : "cirebon",
+        "jurusan" : "perhotelan",
+        "email" : "ferdiansyah@gmail.com"
+    },
+    {
+        "nama" : "fatur rohman",
+        "asal" : "indramayu",
+        "jurusan" : "permotoran",
+        "email" : "sudungganteng@gmail.com"
+    }
+]
